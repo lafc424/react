@@ -2,9 +2,9 @@
 
 Book List 페이지 입니다.
 
--> useContext + useReducer 를 사용하여 상태 관리
+-> 전역적으로 상태 관리를 하기 위해서 useContext + useReducer를 사용했습니다.
 
--> 그 외 useState, useNavigate, useEffect, useRef를 사용해서 만들었습니다.
+-> 그 외 useEffect, useState, useNavigate, useRef를 사용해서 만들었습니다.
 
 <메인 페이지>
 
