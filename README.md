@@ -2,9 +2,11 @@
 
 Book List 페이지 입니다.
 
--> 전역적으로 상태 관리를 하기 위해서 useContext + useReducer를 사용했습니다.
+-> 전역적으로 상태 관리를 하기 위해서 useContext + useReducer를 사용.
 
--> 그 외 useEffect, useState, useNavigate, useRef를 사용해서 만들었습니다.
+-> 그 외 useEffect, useState, useNavigate, useRef를 사용.
+
+-> Backend : Node.js + Express를 사용 / 데이터는 객체 배열을 생성하여 간단하게 데이터를 제공 / JSON으로 요청 처리
 
 <메인 페이지>
 
