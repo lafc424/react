@@ -6,7 +6,7 @@ Book List 페이지 입니다.
 
 -> 그 외 useEffect, useState, useNavigate, useRef를 사용.
 
--> Backend : Node.js + Express를 사용 / 데이터는 객체 배열을 생성하여 간단하게 데이터를 제공 / JSON으로 요청 처리
+-> Backend : Node.js + Express를 사용 / 데이터는 객체 배열을 생성하여 간단하게 제공 / JSON으로 요청 처리
 
 <메인 페이지>
 
